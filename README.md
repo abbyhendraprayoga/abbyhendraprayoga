@@ -1,5 +1,11 @@
+<div style="padding: 1rem;">
+
 # <summary><strong>Hi there, I'm shelzn!</strong></summary>
-Lifelong Learner, Currently studying at SMKN 2 Tabanan
+Lifelong Learner, Currently studying at SMKN 2 Tabanan <br>
+
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=abbyhendraprayoga" id="counter">
+</p>
 
 ### <summary><strong>Yosh!</strong></summary>
 
@@ -33,14 +39,12 @@ Lifelong Learner, Currently studying at SMKN 2 Tabanan
 <br>
 
 
-### <summary><strong>My Stats</strong></summary>
-
+### <p align="center"><strong>My Stats</strong></p><br>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abbyhendraprayoga&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbyhendraprayoga&theme=radical&title_color=8E2DE2&text_color=fff)
+</div>
 
 
-
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=abbyhendraprayoga" id="counter">
-</p>
+</div>
