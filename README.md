@@ -34,6 +34,7 @@ Lifelong Learner, Currently studying at SMKN 2 Tabanan <br>
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 ![react](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
+![next.js](https://img.shields.io/badge/-next.js-grey?style=for-the-badge&logo=next.js&logoColor=white&labelColor=8E2DE2)
 <br>
 
 
