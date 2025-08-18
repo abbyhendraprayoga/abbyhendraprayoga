@@ -1,5 +1,5 @@
 # <strong>Hi there, I'm shelzn!</strong>
-Lifelong Learner, Currently studying at SMKN 2 Tabanan <br>
+Lifelong Learner, Currently studying at OTC BALI TABANAN <br>
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=abbyhendraprayoga" id="counter">
